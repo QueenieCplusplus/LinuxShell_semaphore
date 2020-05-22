@@ -20,6 +20,25 @@ send signal by using KILL
 * 暫停
 
           ^Z // 暫停執行 suspend
+          
+          
+* execution in foreground
+
+
+      $ fg <cmd>
+
+        
+             
+   https://github.com/QueenieCplusplus/LinuxShell_fgbg/blob/master/README.md#foreground-前景執行
+         
+         
+* execution in background
+
+
+      $ bg <cmd> 
+        
+        
+        
 
 * help
 
