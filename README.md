@@ -26,8 +26,6 @@ send signal by using KILL
 
 
       $ fg <cmd>
-
-        
              
    https://github.com/QueenieCplusplus/LinuxShell_fgbg/blob/master/README.md#foreground-前景執行
          
@@ -37,7 +35,7 @@ send signal by using KILL
 
       $ bg <cmd> 
         
-        
+https://github.com/QueenieCplusplus/LinuxShell_fgbg/blob/master/README.md#background-背景執行     
         
 
 * help
