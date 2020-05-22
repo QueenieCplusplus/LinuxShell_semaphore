@@ -35,7 +35,7 @@ send signal by using KILL
 
       $ bg <cmd> 
         
-https://github.com/QueenieCplusplus/LinuxShell_fgbg/blob/master/README.md#background-背景執行     
+  https://github.com/QueenieCplusplus/LinuxShell_fgbg/blob/master/README.md#background-背景執行     
         
 
 * help
