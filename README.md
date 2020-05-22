@@ -19,7 +19,7 @@ send signal by using KILL
 
 * 暫停
 
-          ^Z
+          ^Z // 暫停執行 suspend
 
 * help
 
