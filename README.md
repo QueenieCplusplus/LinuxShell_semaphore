@@ -11,11 +11,11 @@ send signal by using KILL
           
           ^D // Unix 不支援
 
-          [kill [-1] pid] // 掛斷
+          [kill [-1] pid] // 掛斷 訊號名稱：SIGHUP
 
-          [kill [-9] pid] // 強迫終止
+          [kill [-9] pid] // 強迫終止 訊號名稱：SIGKILL
 
-          [kill [-9] pid] // 終止
+          [kill [-15] pid] // 終止 訊號名稱：SIGTERM
 
 * 暫停
 
